@@ -1,6 +1,4 @@
 # ClinicTokenPro---Jackruit-Problem
-Here’s a clean **README.md** for your appointment-booking program.
-You can copy–paste this directly into a `README.md` file.
 
 ---
 
